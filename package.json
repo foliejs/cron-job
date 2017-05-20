@@ -1,8 +1,22 @@
 {
-  "name": "cron-job-queue",
+  "name": "cron-job",
   "version": "1.0.0",
+  "description": "Generic Cron Jon Center",
   "main": "index.js",
-  "repository": "git@github.com:foliejs/cron-job.git",
-  "author": "sunnoder <m18205253820@163.com>",
-  "license": "MIT"
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/foliejs/cron-job.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/foliejs/cron-job/issues"
+  },
+  "homepage": "https://github.com/foliejs/cron-job#readme"
 }
