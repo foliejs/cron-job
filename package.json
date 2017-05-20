@@ -1,0 +1,8 @@
+{
+  "name": "cron-job-queue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:foliejs/cron-job.git",
+  "author": "sunnoder <m18205253820@163.com>",
+  "license": "MIT"
+}
