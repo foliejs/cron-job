@@ -1,6 +1,6 @@
 {
   "name": "cron-job",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generic Cron Jon Center",
   "main": "index.js",
   "directories": {
